@@ -1,0 +1,5 @@
+build/*.d
+build/*.o
+build/*.elf.map
+Qulick.dol
+Qulick.elf

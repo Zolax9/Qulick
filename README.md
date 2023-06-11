@@ -1,5 +1,7 @@
 # Qulick
 
+![](icon.png)
+
 A game where you **qu**ickly c**lick** buttons.
 
 Game is playable on Windows, Linux, and the Nintendo Wii.

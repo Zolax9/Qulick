@@ -4,7 +4,7 @@
 
 A game where you **qu**ickly c**lick** buttons.
 
-Game is playable on Windows, Linux, and the Nintendo Wii.
+Game is playable on Windows, Linux, and the Nintendo Wii (no releases available).
 
 # Gameplay
 
@@ -17,8 +17,9 @@ Game is playable on Windows, Linux, and the Nintendo Wii.
 * Review and clean up code
 * Use more intuitive buttons
 * Use latest version of Qulick with Wii port
-* Publish on other platforms
+* Publish game on other platforms
 
 # Requirements
 
 * Raylib
+* GRRLIB (for compiling Wii port)
